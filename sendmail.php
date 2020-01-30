@@ -34,7 +34,7 @@
 	$mail->Port = 465; // or 587
 	$mail->IsHTML(true);
 	$mail->Username = "rostex22@gmail.com";	
-	$mail->Password = "privet22";	
+	$mail->Password = "........";	
 	
 	$email_sender = $_POST['email'];
 	$subject=$_POST['subject'];
